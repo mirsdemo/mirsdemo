@@ -45,7 +45,7 @@
 - 🚀 &nbsp; At the moment, I’m exploring Haskell, Java, Ruby, and Rust.
 - 💬 &nbsp; Feel free to ask me in regards to anything <a href =  "https://github.com/mirsdemo/mirsdemo/discussions/categories/q-a" title = "Q&A" > here! </a>
 - 👾 &nbsp; Fun fact: Game design is just as much as enjoying the game!
-- 📬 &nbsp; Reach out to me: <mirsdemo@gmail.com>.
+- 📬 &nbsp; Reach out to me: <contact.mirsdemo@facilitative.space>.
 
 ### ⭐ Absolute Favorites
 

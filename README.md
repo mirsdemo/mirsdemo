@@ -37,7 +37,7 @@
 
 📆 I joined GitHub **5** years ago!
 
-♻️ Since then I have pushed **179**+ commits, opened **7**+ issues, submitted **97**+ pull requests, created **3**+ gists, and contributed to **6**+ public repositories.
+♻️ Since then I have pushed **179**+ commits, opened **7**+ issues, submitted **98**+ pull requests, created **3**+ gists, and contributed to **7**+ public repositories.
 
 ### 👨‍🎓 Personalized Information
 
@@ -45,7 +45,7 @@
 - 🚀 &nbsp; At the moment, I’m exploring Haskell, Java, Ruby, and Rust.
 - 💬 &nbsp; Feel free to ask me in regards to anything <a href =  "https://github.com/mirsdemo/mirsdemo/discussions/categories/q-a" title = "Q&A" > here! </a>
 - 👾 &nbsp; Fun fact: Game design is just as much as enjoying the game!
-- 📬 &nbsp; Reach out to me: <contact.mirsdemo@facilitative.space>.
+- 📬 &nbsp; Reach out to me: <mirsdemo@gmail.com>.
 
 ### ⭐ Absolute Favorites
 
